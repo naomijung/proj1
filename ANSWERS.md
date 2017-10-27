@@ -19,4 +19,6 @@ The pokemon that is being created with the new keyword causes an error due to th
 # Give us feedback on the project and decal below!
 Everything has been pretty good so far! I think the project and the homeworks were manageable in terms of time requirement and difficulty. 
 
+Link to repo: https://github.com/naomijung/proj1
+
 # Extra credit: Link your Heroku deployed app
